@@ -27,9 +27,9 @@ body {
 -------------------- */
 
 h1, h2, h3 {
+  background-color: #4682b4;
   color: var(--theme-color);
   border-bottom: dashed 0.1em var(--theme-color);
-  background-color: #4682b4;
         
 }
 
