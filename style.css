@@ -90,3 +90,12 @@ th, td {
   border: solid 1px #f0f0f0;
   padding: 0.5rem;
 }
+
+/* --------------------
+          Openなんたら
+-------------------- */
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
