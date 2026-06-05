@@ -19,7 +19,7 @@ html, body {
 
 body {
   background-color:#f0f8ff
-  width: 0;
+  margin: 0;
   padding: 30px;
   color: #333;
 }
