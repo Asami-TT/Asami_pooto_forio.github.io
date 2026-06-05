@@ -19,7 +19,7 @@ body {
   background-color: #f0f8ff;
   margin: 10px;
   padding: 30px;
-  color: #333;
+  color: #000;
 }
 
 /* --------------------
@@ -29,6 +29,8 @@ body {
 h1, h2, h3 {
   color: var(--theme-color);
   border-bottom: dashed 0.1em var(--theme-color);
+  background-color: #4682b4;
+        
 }
 
 /* --------------------
