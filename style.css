@@ -16,7 +16,9 @@ html, body {
 }
 
 body {
-  margin: 0;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
   padding: 30px;
   color: #333;
   background-color:#f0f8ff
