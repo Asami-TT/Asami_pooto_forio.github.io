@@ -22,20 +22,6 @@ body {
   color: #333;
 }
 
-.container {
-  max-width: 900px;
-  margin: 0 auto;
-}
-
-/* --------------------
-        画像
--------------------- */
-
-img {
-  display: block;
-  margin: 20px auto;
-}
-
 /* --------------------
         見出し
 -------------------- */
