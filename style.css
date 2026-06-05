@@ -27,8 +27,8 @@ body {
 -------------------- */
 
 h1, h2, h3 {
-  background-color: #fffafa;
-  color: var(--theme-color);
+  background-color: var(--theme-color);
+  color: #ffffff;
 }
 
 /* --------------------
